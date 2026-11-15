@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.32.2](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.32.1...v2.32.2) (2026-11-15)
+
+
+### Documentation
+
+* **adr:** record why the flat-name removal moved to 2.36.0 ([#3222](https://github.com/IsmaelMartinez/teams-for-linux/issues/3222)) ([ec48f6c](https://github.com/IsmaelMartinez/teams-for-linux/commit/ec48f6c3ba9f1950618fd159321fe207294d8086))
+* **flatpak:** document the TimeoutStopSec workaround for the slow shutdown ([#3223](https://github.com/IsmaelMartinez/teams-for-linux/issues/3223)) ([2b4119a](https://github.com/IsmaelMartinez/teams-for-linux/commit/2b4119a36d0ecf40a133d572b6b55ebe28ce64cb))
+
+
+### Maintenance
+
+* **deps:** bump katex and mermaid in /docs-site ([#3224](https://github.com/IsmaelMartinez/teams-for-linux/issues/3224)) ([da7b77c](https://github.com/IsmaelMartinez/teams-for-linux/commit/da7b77cf8db4de802b1a2884815c19979bf2f7b5))
+
 ## [2.32.1](https://github.com/IsmaelMartinez/teams-for-linux/compare/v2.32.0...v2.32.1) (2026-11-15)
 
 
