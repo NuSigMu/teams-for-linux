@@ -14,6 +14,15 @@
   <url type="bugtracker">https://github.com/IsmaelMartinez/teams-for-linux/issues</url>
   <launchable type="desktop-id">com.github.IsmaelMartinez.teams_for_linux.desktop</launchable>
   <releases>
+    <release version="2.32.2" date="2026-11-15">
+      <description>
+        <ul>
+          <li>adr: record why the flat-name removal moved to 2.36.0 (#3222)</li>
+          <li>flatpak: document the TimeoutStopSec workaround for the slow shutdown (#3223)</li>
+          <li>deps: bump katex and mermaid in /docs-site (#3224)</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.32.1" date="2026-11-15">
       <description>
         <ul>
